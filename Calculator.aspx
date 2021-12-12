@@ -5,7 +5,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>Sajjad's Calculator</title>
+    <title>Simple Calculator</title>
     <link href="Calculator.css" rel="stylesheet" />
 </head>
 <body>
