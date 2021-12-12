@@ -1,4 +1,4 @@
 # Calculator
 Simple calculator made using c# .net
 
-Please click on code, run with visual studio to run this
+Please click on code, Open with visual studio to run this
